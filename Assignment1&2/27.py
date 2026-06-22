@@ -1,3 +1,5 @@
+# Convert 50°F to Celsius
+
 celsius_input = 20
 
 # Convert to Fahrenheit using the formula

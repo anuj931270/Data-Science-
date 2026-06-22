@@ -1,3 +1,5 @@
+# Convert boolean to integer
+
 boolean_input = True
 
 # Convert to integer

@@ -1,3 +1,5 @@
+# 26.Square of sum: (x + y)²
+
 x=5
 y=7
 Square_of_sum=(5+7)**2

@@ -1,3 +1,5 @@
+# Calculate total and average of 4 subjects
+
 sub1 =80
 sub2 =75
 sub3 =90
