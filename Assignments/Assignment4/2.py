@@ -6,7 +6,7 @@ def odd_even(n):
         if i%2==0:
             print("Even",i)
         else:
-            i%2!=0
+            # i%2!=0
             print("odd",i)
 mylist=[10, 23, 11, 12, 33, 44, 2, 5, 6]
 odd_even(mylist)
