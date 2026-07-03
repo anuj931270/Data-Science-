@@ -1,0 +1,18 @@
+{
+    "students": [
+        {
+            "first_name": "aman",
+            "role": 45438,
+            "age": 55,
+            "email": "aman@gmail.com",
+            "phone": "457348954"
+        },
+        {
+            "first_name": "aman1",
+            "role": 45428,
+            "age": 52,
+            "email": "aman1@gmail.com",
+            "phone": "457348954"
+        }
+    ]
+}
