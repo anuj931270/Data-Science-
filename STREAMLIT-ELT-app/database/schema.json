@@ -1,0 +1,7 @@
+{
+    "database":"student_DB",
+    "table":"all_students",
+    "columns":{
+        "id":"INT PRIMARY KEY AUTO_INCREMENT"
+    }
+}
